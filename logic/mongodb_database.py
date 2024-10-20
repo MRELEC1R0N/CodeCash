@@ -1,7 +1,11 @@
 from pymongo import MongoClient
 from datetime import datetime,timedelta
+import os
+from dotenv import load_dotenv
 
-client = MongoClient('mongodb://localhost:27017')
+load_dotenv()
+
+client = MongoClient(os.getenv('MONGODB_URI'))
 
 db_login = client.login
 users_collection = db_login.users
