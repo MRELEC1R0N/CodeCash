@@ -54,9 +54,9 @@
 3. Use the in-game tutorials to learn how to manage wealth and collaborate with other players.
 
 
-# Contribution Guidelines
+## Contribution Guidelines
 1. Fork the repository.
-2. Create a new branch ('''git checkout -b feature-branch''').
-3. Commit your changes ('''git commit -m 'Add some feature' ''').
-4. Push to the branch ('''git push origin feature-branch''').
+2. Create a new branch (<span style="color: yellow;">`git checkout -b feature-branch`</span>).
+3. Commit your changes (<span style="color: yellow;">`git commit -m 'Add some feature'`</span>).
+4. Push to the branch (<span style="color: yellow;">`git push origin feature-branch`</span>).
 5. Open a pull request.
