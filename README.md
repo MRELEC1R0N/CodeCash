@@ -47,7 +47,7 @@
 
 
 # Usage
-1. Open your browser and navigate to http://'''localhost:5000'''.
+1. Open your browser and navigate to `http://localhost:5000.`
 
 2. Register an account and start building your digital empire.
 
